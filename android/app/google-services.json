@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277640035582",
+    "project_id": "floworder-48fd0",
+    "storage_bucket": "floworder-48fd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277640035582:android:6e3048cb443a0063def9af",
+        "android_client_info": {
+          "package_name": "br.unigran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWgtLfSrC8qLJMmx6hDhBx5sDFbdTlr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277640035582:android:57e81e4d9bb26434def9af",
+        "android_client_info": {
+          "package_name": "br.unigran.tcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWgtLfSrC8qLJMmx6hDhBx5sDFbdTlr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
